@@ -1,0 +1,8 @@
+streamlit
+firebase-admin
+pandas
+numpy
+requests
+openpyxl
+xlrd
+streamlit-extras
